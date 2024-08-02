@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+div{
+	position: relative;
+	width: 200px;
+	height: 200px;
+	background-color:lightblue;
+	border: 2px solid black;
+	top: 30%;
+	left: 30%;
+}
+h1{
+	text-align: center;
+}
